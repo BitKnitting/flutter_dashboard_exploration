@@ -1,16 +1,4 @@
 # flutter_dashboard_exploration
 
-A new Flutter project.
+In this project I explored making a dashboard using the techniques taught by whatsupcoder in her [part 1](https://www.youtube.com/watch?v=BEVOiv_j35w) and [part 2](https://www.youtube.com/watch?v=ABbBYebnwDQ&t=311s) Dashboard videos.  She uses the StaggereddGridView.  I think it looks very nice.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
